@@ -15,3 +15,6 @@ Esta aplicación web fue implementada con JDK versión 1.8. Se utilizó Maven ve
 - javax.servlet.http.HttpServlet;
 - org.junit.*
 
+### Despliegue
+
+Para desplegar la aplicación, importar el proyecto en Eclipse y ejecutar con StartDevServer.launch. La aplicación se desplegará en localhost:8090. 
