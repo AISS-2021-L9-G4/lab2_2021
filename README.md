@@ -3,7 +3,7 @@ Práctica 2 asignatura AISS
 
 ### Descripción general
 
-Aplicación web Java para la gestión de una agenda de contactos. Las posibles acciones a realizar son: listar, añadir, acualizar o borrar contactos. La aplicación fue implementada usando Servlets, Java Server Pages (JSPs) y JSP Standard Template Library (JSTL) siguiendo el patrón Modelo Vista Controlador (MVC). Para la construcción del proyecto se utilizó Maven y para su despliegue en remoto AppEngine.
+Aplicación web Java para la gestión de una agenda de contactos desarrollada por los profesores de la asignatura. Las posibles acciones a realizar son: listar, añadir, actualizar o borrar contactos. La aplicación fue implementada usando Servlets, Java Server Pages (JSPs) y JSP Standard Template Library (JSTL) siguiendo el patrón Modelo Vista Controlador (MVC). Para la construcción del proyecto se utilizó Maven y para su despliegue en remoto AppEngine.
 
 ### Requisitos
 
